@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\bin\Debug\Calculadora-em-c#.exe.config
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\bin\Debug\Calculadora-em-c#.exe
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\bin\Debug\Calculadora-em-c#.pdb
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\obj\Debug\Calculadora-em-c#.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\obj\Debug\Calculadora-em-c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\obj\Debug\Calculadora-em-c#.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\obj\Debug\Calculadora-em-c#.exe
+C:\Users\lucas\source\repos\Calculadora-em-c#\Calculadora-em-c#\obj\Debug\Calculadora-em-c#.pdb
